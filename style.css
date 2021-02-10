@@ -1,0 +1,109 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  margin: 0;
+}
+
+.destaque {
+  height: auto;
+}
+
+.title {
+  text-align: right;
+  color: #ffffff;
+  font-size: 80px;
+  text-emphasis: bold;
+  font-family: "Lobster", cursive;
+  margin-right: 10px;
+}
+
+.why-title,
+.recipes-title {
+  color: #f8bbd0;
+  text-align: center;
+  font-family: "Lobster", cursive;
+  font-size: 50px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 10vw;
+  object-fit: cover;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+#head {
+  background: #f8bbd0;
+  width: 100%;
+  max-height: 800px;
+}
+
+.footer {
+  color: #f8bbd0;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.benefits {
+  text-align: center;
+}
+
+#history {
+  margin: 20px;
+}
+
+.btn-primary {
+  background: #9c27b0;
+  color: white;
+  border: 1px solid #9c27b0;
+}
+
+.btn-primary:hover {
+  background: white;
+  color: #9c27b0;
+  border: 1px solid #9c27b0;
+}
+
+#back-home {
+  margin: 10px;
+}
+
+.winter-oats-img,
+.midnight-img {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+#winter-oats,
+#recipe-overnight {
+  margin: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: purple;
+}
+
+.title-subpage {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Lobster", cursive;
+  padding: 20px;
+}
