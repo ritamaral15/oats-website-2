@@ -7,3 +7,5 @@ No need for Javascript because the buttons were animated with just a few words
 Pictures taken from Unsplash.com
 
 Recipes are taken from general recipes websites
+
+Check the website: https://nervous-boyd-c54fc8.netlify.app
